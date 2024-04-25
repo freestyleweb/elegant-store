@@ -660,7 +660,7 @@ html, body {
 }
 
 .hero {
-  height: 820px;
+  height: 650px;
   background-color: #ffc95c;
   background-image: url("./../img/hero/bg.jpg");
   background-position: center center;
